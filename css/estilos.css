@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://hookagency.com/wp-content/uploads/2015/11/sour-tropical-yellow-orange-gradient.jpg');
+    background-size: auto 100vh;
+    font-family: Arial; 
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: WHITESMOKE;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    color: ORANGERED;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: GHOSTWHITE;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  
